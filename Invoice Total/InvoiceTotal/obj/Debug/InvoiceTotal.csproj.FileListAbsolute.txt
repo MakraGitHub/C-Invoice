@@ -1,0 +1,27 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 04\Invoice Total\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
